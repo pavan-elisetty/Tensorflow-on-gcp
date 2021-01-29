@@ -1,3 +1,3 @@
 # Tensorflow-on-gcp
-random works on tf
+different kernels with no sequence and relations 
 
